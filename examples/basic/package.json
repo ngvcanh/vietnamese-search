@@ -1,0 +1,11 @@
+{
+  "name": "example-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "vietnamese-search": "../../vietnamese-search-v1.0.0-rc.tgz"
+  }
+}
